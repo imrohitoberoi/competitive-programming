@@ -1,2 +1,4 @@
 # competitive-programming
-Will be adding my code solutions here
+Im a 2nd year CSE student and a CP enthusiast
+Will be adding my code solutions here!
+
